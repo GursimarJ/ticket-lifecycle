@@ -8,7 +8,8 @@ This walkthrough involves creating tickets as end users. We will then observe al
 
 <h2>Environments Used</h2>
 
-- Microsoft Azure 
+- Microsoft Azure
+- macOS (Host Machine)
 - Windows 10
 - Windows App (Remote Desktop)
 
